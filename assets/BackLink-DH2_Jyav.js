@@ -1,0 +1,1 @@
+import{u as n,j as s}from"./index-DNl1I_BS.js";import{L as i}from"./vendor-CGcgPU0O.js";function r({to:t="/"}){const{t:e}=n();return s.jsxs(i,{to:t,className:"no-print mb-3 inline-flex items-center gap-1 text-sm font-medium text-khata",children:["← ",e("back")]})}export{r as B};
